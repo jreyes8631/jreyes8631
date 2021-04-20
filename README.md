@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jreyes8631
 - 👀 I’m interested in software develpment
 - 🌱 I’m currently learning React native
-- 💞️ I’m looking to collaborate on any app to help increise my experience.
+- 💞️ I’m looking to collaborate on any app to help increase my experience.
 - 📫 How to reach me jreyes8631@gmail.com
 
 <!---
